@@ -1,2 +1,1 @@
-# Python_Timer
-Timer
+many small projects to learn python
